@@ -1,0 +1,4 @@
+class_results.db
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+__pycache__/
